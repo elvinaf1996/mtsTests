@@ -1,0 +1,4 @@
+tests\CheckingMTSTest.class
+tests\BaseTest.class
+config\ProjectConfig.class
+pages\HomePage.class
